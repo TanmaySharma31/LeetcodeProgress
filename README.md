@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0035-search-insert-position) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Hash Table
 |  |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
