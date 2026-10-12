@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Stack
 |  |
 | ------- |
