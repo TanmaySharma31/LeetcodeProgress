@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Stack
 |  |
 | ------- |
