@@ -11,7 +11,6 @@ class Solution {
             int sum=0;
             for(int nums:arr){
                 sum+=(int)Math.ceil((double) nums/mid);
-                
             }
             if(sum<=limit){
                 right=mid-1;
