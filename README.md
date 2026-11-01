@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0410-split-array-largest-sum](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0410-split-array-largest-sum) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0540-single-element-in-a-sorted-array](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0904-fruit-into-baskets) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0069-sqrtx) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/3886-sum-of-sortable-integers) |
 ## Newton's Method
 |  |
