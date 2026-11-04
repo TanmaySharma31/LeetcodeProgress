@@ -173,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/3882-minimum-xor-path-in-a-grid) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/TanmaySharma31/LeetcodeProgress/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
